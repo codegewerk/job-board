@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "JobBoard",
+  title: "jobBoard",
   tagline: "A website for testing",
   url: "https://flxbe.github.io",
   baseUrl: "/job-board/",
@@ -40,14 +40,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: "img/favicon.ico",
-  footerIcon: "img/favicon.ico",
-  favicon: "img/favicon.ico",
+  headerIcon: "img/job_board-icon2.png",
+  footerIcon: "img/job_board-icon2.png",
+  favicon: "img/job_board-icon2.png",
 
   /* Colors for website */
   colors: {
-    primaryColor: "#ac4811",
-    secondaryColor: "#78320b"
+    primaryColor: "#6ab6c0",
+    secondaryColor: "#7b8c8c"
   },
 
   /* Custom fonts for website */
